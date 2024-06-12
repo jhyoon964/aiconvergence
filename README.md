@@ -37,7 +37,7 @@ python train.py
 python val.py
 ```
 
-## Run Project
+## Project Run
 ```
 # Robot Interface
 python yolo_ui2.py
