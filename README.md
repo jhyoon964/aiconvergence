@@ -8,7 +8,10 @@ Jae Hyun Yoon
   ![image](https://github.com/jhyoon964/aiconvergence/assets/144157648/786004b4-fb9c-4937-b6fc-512b6dea74e2)
   ![image](https://github.com/jhyoon964/aiconvergence/assets/144157648/f76db5f6-c8d9-4595-a565-f2b61ece563f)
 </div>
-
+<div align="center">
+  <img src="https://github.com/jhyoon964/aiconvergence/assets/144157648/786004b4-fb9c-4937-b6fc-512b6dea74e2" alt="image">
+  <img src="https://github.com/jhyoon964/aiconvergence/assets/144157648/f76db5f6-c8d9-4595-a565-f2b61ece563f" alt="image">
+</div>
 
 
 
