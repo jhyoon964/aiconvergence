@@ -35,7 +35,7 @@ python train.py
 
 # Test
 python val.py
-
+```
 
 ## Run
 ```
@@ -44,4 +44,5 @@ python yolo_ui2.py
 
 # Webpage
 cd web_study
-python manage.py runserver 
+python manage.py runserver
+```
