@@ -35,3 +35,13 @@ python train.py
 
 # Test
 python val.py
+
+
+## Run
+```
+# Robot Interface
+python yolo_ui2.py
+
+# Webpage
+cd web_study
+python manage.py runserver 
